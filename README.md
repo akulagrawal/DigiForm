@@ -20,8 +20,7 @@ Upload the image of the form to the Server
 Store the converted digital forms
 
 
-Technology Used
----------------------------------------------------------------------------------------
+# Technology Used
 * Android Studio
 * OpenCV
 * Python3
@@ -35,13 +34,11 @@ Technology Used
 * Any OS with required softwares and dependencies installed(Has been tested on MS Windows 10 and Ubuntu 16.04)
 
 
-Dataset
----------------------------------------------------------------------------------------
+# Dataset
 MNIST Dataset has been used and the format has been modified according to the need.
 
 
-Contributors
----------------------------------------------------------------------------------------
+# Contributors
 * Akul Agrawal
 * Deepak Kumar Gouda
 * Rahul Kumar Gupta

@@ -1,5 +1,6 @@
 *﻿Digiform is an application made with an objective to eliminate manual data entry and convert paper forms to digital*
 
+View a brief introduction video to the app [Here](https://youtu.be/pE3Keq090yk)
 
 # Workflow
 ## Android App:

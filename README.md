@@ -39,6 +39,10 @@ Store the converted digital forms
 MNIST Dataset has been used and the format has been modified according to the need.
 
 
+# Further PROBYTO Research
+![Paper 1](https://github.com/akulagrawal/DigiForm/blob/master/Research.png)
+
+
 # Contributors
 * Akul Agrawal
 * Deepak Kumar Gouda
